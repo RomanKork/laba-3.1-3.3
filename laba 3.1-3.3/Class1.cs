@@ -8,7 +8,7 @@ namespace laba_3._1_3._3
 {
     class work1
     {
-        public int[,] mas;
+        private int[,] mas;
         public work1(int n, int m, bool empty)
         {
             mas = new int[n, m];
